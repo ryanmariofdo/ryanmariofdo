@@ -1,6 +1,6 @@
 <h1 align="left">Ryan Mario</h1>
 
-<p>MSc Advanced Software Engineering | Tech Enthusiast</p>
+<b><p>MSc Advanced Software Engineering | Tech Enthusiast</p></b>
 
 <h3 align="left">🚀 About Me</h3>
 <p>I am passionate about solving problems through software by building impactful and innovative real-world solutions, and I am particularly interested in integrating AI into applications and systems. I aim to grow into a skilled Software Engineer / AI Engineer through hands-on projects, collaboration, and continuous learning within the tech community.</p>
