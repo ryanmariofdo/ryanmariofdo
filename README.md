@@ -19,7 +19,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
-
-<h3>📊 GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmariofdo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
