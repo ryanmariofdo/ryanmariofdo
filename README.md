@@ -15,5 +15,5 @@
   </a>
 </div>
 
-### 📫 Connect With Me
+###
 📧 Email: [ryanmario.fdo@gmail.com](mailto:ryanmario.fdo@gmail.com)  
