@@ -15,5 +15,6 @@
   </a>
 </div>
 
-###
-📧 Email: [ryanmario.fdo@gmail.com](mailto:ryanmario.fdo@gmail.com)  
+<p></p>
+
+📧 <b>Email</b>: [ryanmario.fdo@gmail.com](mailto:ryanmario.fdo@gmail.com)  
